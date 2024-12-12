@@ -1,0 +1,8 @@
+{
+  "label": "visualizacion",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "El tipo va a determinar las propiedades a establecer. Tenemos los siguientes tipos de gráficos disponibles:"
+  }
+}
